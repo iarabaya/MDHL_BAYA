@@ -153,4 +153,17 @@ button {
   cursor: pointer;
 }
 
+table {
+	text-align: center;
+	background-color: #5ba39b;
+	padding: 1vh;
+}
+
+td {
+	padding:.5rem 0;
+	border-radius: 5px;
+	background-color:#1f3b3875;
+	margin: 0;
+}
+
 
