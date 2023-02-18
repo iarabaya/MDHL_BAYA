@@ -103,7 +103,7 @@ main section {
 	width: 30%;
 }
 .imagenes img {
-	max-width: 50%;
+	max-width: 100%;
 	padding: 1rem;
 }
 
@@ -166,4 +166,30 @@ td {
 	margin: 0;
 }
 
+td > a {
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+}
+ td i {
+	color: #f7df2f;
+ }
 
+.maps-container {
+	width: 100%;
+	text-align: center;
+}
+
+.map-item-container {
+	margin-top: 1rem;
+}
+
+iframe {
+	border-radius: 25px;
+	width: 100%;
+	border:0;
+}
+
+@media screen {
+	
+}
